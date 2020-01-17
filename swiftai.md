@@ -21,6 +21,8 @@ is a generalization of both the LLVM IR and TensorFlow graphs to represent arbit
 #### Dialect 
 
 #### Stencil 
+#### Generics
+#### Closure
 
 ### References
 - [MLIR Specification](https://github.com/tensorflow/mlir/blob/408b626c1598e31dc31abae55131c8a17063a2a2/g3doc/LangRef.md#high-level-structure)
